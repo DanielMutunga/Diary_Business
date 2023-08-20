@@ -88,4 +88,16 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    position: relative;
+}
+.sectiontwo .inputsection{
+    height: 20%;
+    width: 100%;
+    background-color: aquamarine;
+    position: absolute;
+    top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
 }
