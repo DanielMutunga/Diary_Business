@@ -77,3 +77,15 @@
 .last img{
     color: white;
 }
+/* End of section one */
+
+/* Start of section Two */
+.sectiontwo{
+    height: 70vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
