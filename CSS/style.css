@@ -56,5 +56,24 @@
     border-radius: 25px;
 }
 .textdiv{
+    height: 50%;
+    width: 30%;
+    /* background-color: black; */
     text-align: center;
+    position: absolute;
+    bottom: 15%;
+}
+.textdiv p{
+    margin-bottom: 20px;
+    color: red;
+}
+.textdiv h1{
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+.textdiv .last{
+   margin-top: 100px;
+}
+.last img{
+    color: white;
 }
